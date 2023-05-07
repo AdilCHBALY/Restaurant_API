@@ -8,6 +8,12 @@ This repository contains the backend codebase for a restaurant app developed usi
 
 **BackEnd** : Django,MySql
 
+## Related
+
+Here are some related projects
+
+[Scrapping](https://github.com/AdilCHBALY/Restaurant-Scrapping)
+[FrontEnd](https://github.com/AdilCHBALY/Restaurant_frontend)
 
 ## Run Locally
 
